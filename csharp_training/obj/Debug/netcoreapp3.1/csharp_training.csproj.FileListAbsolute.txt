@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\bin\Debug\netcoreapp3.1\csharp_training.exe
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\bin\Debug\netcoreapp3.1\csharp_training.deps.json
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\bin\Debug\netcoreapp3.1\csharp_training.runtimeconfig.json
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\bin\Debug\netcoreapp3.1\csharp_training.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\bin\Debug\netcoreapp3.1\csharp_training.dll
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\bin\Debug\netcoreapp3.1\csharp_training.pdb
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\obj\Debug\netcoreapp3.1\csharp_training.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\obj\Debug\netcoreapp3.1\csharp_training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\obj\Debug\netcoreapp3.1\csharp_training.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\obj\Debug\netcoreapp3.1\csharp_training.AssemblyInfo.cs
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\obj\Debug\netcoreapp3.1\csharp_training.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\obj\Debug\netcoreapp3.1\csharp_training.dll
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\obj\Debug\netcoreapp3.1\csharp_training.pdb
+C:\Users\Dell\Desktop\training\csharp_training\csharp_training\obj\Debug\netcoreapp3.1\csharp_training.genruntimeconfig.cache
