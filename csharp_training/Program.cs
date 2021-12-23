@@ -7,6 +7,8 @@ namespace csharp_training
     {
         static void Main(string[] args)
         {
+            // https://edabit.com/challenge/R4YcSt798Krokao2R
+
             // Create a function that takes a string's characters
             // as ASCII and returns each character's
             // hexadecimal value as a string.
